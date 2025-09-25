@@ -1,11 +1,13 @@
 <div align="center">
     <a href="https://github.com/Aditya-git-rajya"><img src="https://komarev.com/ghpvc/?username=Aditya-git-rajya&style=flat-square&color=blue" alt="Profile views"></a>
+    
     <img src="https://img.shields.io/badge/Status-Seeking%20Data%20Role-0077B6?style=flat-square&logo=linkedin" alt="Status Badge">
     <img src="https://img.shields.io/badge/Focus-GenAI%20%7C%20BigData-2A9D8F?style=flat-square" alt="Focus Badge">
 </div>
 
-# Hi there! 👋 I'm Aditya Chauhan
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aditya+Chauhan!;" />
+</h1>
 ## 🌊 Navigating the Seas of Data Engineering & AI
 
 Welcome to my GitHub! I'm a Computer Science graduate with a **Post Graduate Diploma in Big Data Analytics**. I'm on a mission to master the full data ecosystem: from **robust data pipelines** to **actionable AI/ML intelligence**. My passion is transforming raw data into meaningful insights that drive real-world impact.
@@ -54,61 +56,76 @@ I'm actively building expertise across the entire data lifecycle:
 ---
 
 ## 🌟 Featured Technical Projects
-
 ### 🤖 Advanced RAG-based Chatbot (Website Scraper & Q&A)
 * **Technologies:** Python, **Gen-AI**, **RAG (Groq API, Sentence Transformers, FAISS)**, FastAPI, **Aiohttp**
 * **Highlights:**
-    * Engineered a low-latency RAG chatbot using the **Groq API** for fast, contextual responses.
-    * Implemented **asynchronous web scraping** (`aiohttp`, `BeautifulSoup`) to rapidly build the private knowledge base.
-    * Utilized **Sentence Transformers** for generating vector embeddings and **Cosine Similarity** for efficient, context-aware retrieval.
-    * Deployed the system as a high-performance **FastAPI** service.
+    * Engineered a low-latency RAG chatbot using the **Groq API** for fast, contextual responses.
+    * Implemented **asynchronous web scraping** (`aiohttp`, `BeautifulSoup`) to rapidly build the private knowledge base.
+    * Utilized **Sentence Transformers** for generating vector embeddings and **Cosine Similarity** for efficient, context-aware retrieval.
+    * Deployed the system as a high-performance **FastAPI** service.
 
 ### 📈 Bitcoin Price Prediction (ML Classification)
 * **Technologies:** Python, Pandas, Scikit-learn, **XGBClassifier**, Time Series Analysis
 * **Highlights:**
-    * Developed a machine learning model to predict the **directional price movement** (up/down) of Bitcoin.
-    * Employed various classifiers, including **XGBoost Classifier**, Logistic Regression, and SVC.
-    * Focused on extensive data cleaning, feature engineering, and robust model evaluation.
+    * Developed a machine learning model to predict the **directional price movement** (up/down) of Bitcoin.
+    * Employed various classifiers, including **XGBoost Classifier**, Logistic Regression, and SVC.
+    * Focused on extensive data cleaning, feature engineering, and robust model evaluation.
 
 ### 🎵 Music Recommendation System (Big Data & ML)
 * **Technologies:** Python, **Apache Spark**, Machine Learning, Tableau
 * **Highlights:**
-    * Built a **content-based recommendation system** with **85% accuracy**.
-    * Designed and implemented an **ETL pipeline** leveraging **Apache Spark** for processing a large-scale music dataset efficiently.
-    * Created performance visualization dashboards using Tableau.
+    * Built a **content-based recommendation system** with **85% accuracy**.
+    * Designed and implemented an **ETL pipeline** leveraging **Apache Spark** for processing a large-scale music dataset efficiently.
+    * Created performance visualization dashboards using Tableau.
 
 ### 🦠 COVID-19 Global Analysis & Visualization
 * **Technologies:** Python, Pandas, **Plotly Express**, Data Visualization
 * **Highlights:**
-    * Conducted in-depth data analysis and manipulation on COVID-19 datasets.
-    * Used **Plotly Express** to create sophisticated, **interactive Choropleth maps** and time-series charts for global tracking of cases and recoveries.
+    * Conducted in-depth data analysis and manipulation on COVID-19 datasets.
+    * Used **Plotly Express** to create sophisticated, **interactive Choropleth maps** and time-series charts for global tracking of cases and recoveries.
+
+---
+
+## 🐍 My GitHub Contributions Snake (New Section)
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Aditya-git-rajya/Aditya-git-rajya/output/github-contribution-grid-snake.svg" />
+  <br/>
+  <small>Animation updates automatically every 12 hours via GitHub Actions.</small>
+</div>
 
 ---
 
 ## 💼 Technical Experience Snippet
-
 * **RAG/Gen-AI Developer Intern | ValueDX Technologies**
-    * Designed and built a **RAG-based Chatbot** integrating LLMs with private knowledge bases.
-    * Applied **Robotic Process Automation (RPA)** to automate data handling tasks.
-    * Developed project APIs using **FastAPI** for high throughput.
-    * Focused on **DSA, Python, and SQL** in real-world Generative AI projects.
+    * Designed and built a **RAG-based Chatbot** integrating LLMs with private knowledge bases.
+    * Applied **Robotic Process Automation (RPA)** to automate data handling tasks.
+    * Developed project APIs using **FastAPI** for high throughput.
+    * Focused on **DSA, Python, and SQL** in real-world Generative AI projects.
 
 ---
 
 ## 🎓 Education
-
 * 🎯 **Post Graduate Diploma in Big Data Analytics**
-    * *Know-IT, C-DAC ACTS, Pune* | Focus on Spark, Hadoop, and Data Warehousing.
+    * *Know-IT, C-DAC ACTS, Pune* | Focus on Spark, Hadoop, and Data Warehousing.
 * 🎓 **Bachelor of Engineering - Computer Science & Engineering**
-    * *Chandigarh University* | Core subjects in DSA and OOP.
+    * *Chandigarh University* | Core subjects in DSA and OOP.
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Stats & Analytics ⚡ (Optimized Section)
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aditya-git-rajya&show_icons=true&theme=buefy&count_private=true" alt="Aditya's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-git-rajya&theme=buefy" alt="Aditya's GitHub Streak" />
+    <img width=49% src="https://github-readme-stats.vercel.app/api?username=Aditya-git-rajya&show_icons=true&theme=buefy&count_private=true&hide_border=true&rank_icon=percentile" alt="Aditya's GitHub Stats" />
+
+    <img width=49% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-git-rajya&layout=compact&theme=buefy&hide_border=true" alt="Aditya's Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+    <img src="https://streak-stats.demolab.com/?user=Aditya-git-rajya&theme=buefy&hide_border=true" alt="Aditya's GitHub Streak" />
+
     <img src="https://github-profile-trophy.vercel.app/?username=Aditya-git-rajya&theme=flat&no-bg=true" alt="Aditya's GitHub Trophies" />
 </div>
 
