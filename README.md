@@ -121,6 +121,6 @@ I'm always looking for interesting datasets, open-source projects, and new chall
 | Contact | Detail |
 | :--- | :--- |
 | 📧 **Email** | `17bcs1508@gmail.com` |
-| 💼 **LinkedIn** | [Aditya Chauhan](https://www.linkedin.com/in/aditya-chauhan-your-profile-url) |
+| 💼 **LinkedIn** | [Aditya Chauhan](https://www.linkedin.com/in/aditya-chauhan-81794214a/) |
 
 **Current Focus:** Building a comprehensive RAG-based knowledge platform and mastering advanced MLOps deployment at scale.
