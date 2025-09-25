@@ -1,6 +1,4 @@
 <div align="center">
-    <img src="https://github.com/AdityaTheChauhan/AdityaTheChauhan/assets/61203150/a5b85477-03d0-4b2f-8b8d-b21774a4a39b" alt="Aditya Chauhan Cover Image" />
-</div>
 
 <img align="right" alt="Big Data Coding GIF" width="324" src="https://github.com/Aditya-git-rajya/Aditya-git-rajya/blob/main/big-data-cans-believe.gif">
 
@@ -39,19 +37,6 @@ I'm actively building expertise across the entire data lifecycle:
 ## 🛠️ Tech Arsenal
 
 <h3 align="left">Languages, Frameworks, and Tools:</h3>
-
-<p align="left"> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> 
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> 
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original-wordmark.svg" alt="apache-spark" width="40" height="40"/></a>
-    <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original-wordmark.svg" alt="hadoop" width="40" height="40"/></a>
-    <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" alt="apache-airflow" width="40" height="40"/></a>
-    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="[https://seeklogo.com/images/F/fastapi-logo-5D59E68E5C-seeklogo.com.png](https://fastapi.tiangolo.com/)" alt="fastapi" width="40" height="40"/></a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-</p>
 
 | Category | Tools/Libraries |
 | :--- | :--- |
