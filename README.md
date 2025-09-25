@@ -49,7 +49,7 @@ I'm actively building expertise across the entire data lifecycle:
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original-wordmark.svg" alt="apache-spark" width="40" height="40"/></a>
     <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original-wordmark.svg" alt="hadoop" width="40" height="40"/></a>
     <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" alt="apache-airflow" width="40" height="40"/></a>
-    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/F/fastapi-logo-5D59E68E5C-seeklogo.com.png" alt="fastapi" width="40" height="40"/></a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="[https://seeklogo.com/images/F/fastapi-logo-5D59E68E5C-seeklogo.com.png](https://fastapi.tiangolo.com/)" alt="fastapi" width="40" height="40"/></a>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
 </p>
 
