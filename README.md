@@ -1,12 +1,11 @@
 <div align="center">
-    <a href="https://github.com/Aditya-git-rajya"><img src="https://komarev.com/ghpvc/?username=Aditya-git-rajya&style=flat-square&color=blue" alt="Profile views"></a>
-    
-    <img src="https://img.shields.io/badge/Status-Seeking%20Data%20Role-0077B6?style=flat-square&logo=linkedin" alt="Status Badge">
-    <img src="https://img.shields.io/badge/Focus-GenAI%20%7C%20BigData-2A9D8F?style=flat-square" alt="Focus Badge">
+<a href="https://github.com/Aditya-git-rajya"><img src="https://komarev.com/ghpvc/?username=Aditya-git-rajya&style=flat-square&color=blue" alt="Profile views"></a>
+<img src="https://img.shields.io/badge/Status-Seeking%20Data%20Role-0077B6?style=flat-square&logo=linkedin" alt="Status Badge">
+<img src="https://img.shields.io/badge/Focus-GenAI%20%7C%20BigData-2A9D8F?style=flat-square" alt="Focus Badge">
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Aditya+Chauhan!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Aditya+Chauhan!;" />
 </h1>
 
 ## 🌊 Navigating the Seas of Data Engineering & AI
@@ -90,9 +89,9 @@ I'm actively building expertise across the entire data lifecycle:
 ## 🐍 My GitHub Contributions Snake
 
 <div align="center">
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Aditya-git-rajya/Aditya-git-rajya/output/github-contribution-grid-snake.svg" />
-    <br/>
-    <small>Animation updates automatically every 12 hours via GitHub Actions.</small>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Aditya-git-rajya/Aditya-git-rajya/output/github-contribution-grid-snake.svg" />
+<br/>
+<small>Animation updates automatically every 12 hours via GitHub Actions.</small>
 </div>
 
 ---
@@ -117,13 +116,10 @@ I'm actively building expertise across the entire data lifecycle:
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-    <img width="390" src="https://streak-stats.demolab.com/?user=Aditya-git-rajya&count_private=true&theme=react&border_radius=10" alt="Aditya's GitHub Streak"/>
-    
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=Aditya-git-rajya&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Aditya's GitHub Stats" />
-    
-    <br/>
-    
-    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-git-rajya&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Aditya's Top Languages" />
+<img width="390" src="https://streak-stats.demolab.com/?user=Aditya-git-rajya&count_private=true&theme=react&border_radius=10" alt="Aditya's GitHub Streak"/>
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=Aditya-git-rajya&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Aditya's GitHub Stats" />
+<br/>
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-git-rajya&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Aditya's Top Languages" />
 </div>
 
 <br/><br/>
